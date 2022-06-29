@@ -1,0 +1,362 @@
+{
+  "default": {
+    "headingColor": "#2f80ed",
+    "iconColor": "#4c71f2",
+    "txtColor": "#434d58",
+    "bgColor": "#fffefe"
+  },
+  "default_repocard": {
+    "headingColor": "#2f80ed",
+    "iconColor": "#586069",
+    "txtColor": "#434d58",
+    "bgColor": "#fffefe"
+  },
+  "dark": {
+    "headingColor": "#fff",
+    "iconColor": "#79ff97",
+    "txtColor": "#9f9f9f",
+    "bgColor": "#151515"
+  },
+  "radical": {
+    "headingColor": "#fe428e",
+    "iconColor": "#f8d847",
+    "txtColor": "#a9fef7",
+    "bgColor": "#141321"
+  },
+  "merko": {
+    "headingColor": "#abd200",
+    "iconColor": "#b7d364",
+    "txtColor": "#68b587",
+    "bgColor": "#0a0f0b"
+  },
+  "gruvbox": {
+    "headingColor": "#fabd2f",
+    "iconColor": "#fe8019",
+    "txtColor": "#8ec07c",
+    "bgColor": "#282828"
+  },
+  "gruvbox_light": {
+    "headingColor": "#b57614",
+    "iconColor": "#af3a03",
+    "txtColor": "#427b58",
+    "bgColor": "#fbf1c7"
+  },
+  "tokyonight": {
+    "headingColor": "#70a5fd",
+    "iconColor": "#bf91f3",
+    "txtColor": "#38bdae",
+    "bgColor": "#1a1b27"
+  },
+  "onedark": {
+    "headingColor": "#e4bf7a",
+    "iconColor": "#8eb573",
+    "txtColor": "#df6d74",
+    "bgColor": "#282c34"
+  },
+  "cobalt": {
+    "headingColor": "#e683d9",
+    "iconColor": "#0480ef",
+    "txtColor": "#75eeb2",
+    "bgColor": "#193549"
+  },
+  "synthwave": {
+    "headingColor": "#e2e9ec",
+    "iconColor": "#ef8539",
+    "txtColor": "#e5289e",
+    "bgColor": "#2b213a"
+  },
+  "highcontrast": {
+    "headingColor": "#e7f216",
+    "iconColor": "#00ffff",
+    "txtColor": "#fff",
+    "bgColor": "#000"
+  },
+  "dracula": {
+    "headingColor": "#ff6e96",
+    "iconColor": "#79dafa",
+    "txtColor": "#f8f8f2",
+    "bgColor": "#282a36"
+  },
+  "prussian": {
+    "headingColor": "#bddfff",
+    "iconColor": "#38a0ff",
+    "txtColor": "#6e93b5",
+    "bgColor": "#172f45"
+  },
+  "monokai": {
+    "headingColor": "#eb1f6a",
+    "iconColor": "#e28905",
+    "txtColor": "#f1f1eb",
+    "bgColor": "#272822"
+  },
+  "vue": {
+    "headingColor": "#41b883",
+    "iconColor": "#41b883",
+    "txtColor": "#273849",
+    "bgColor": "#fffefe"
+  },
+  "vue-dark": {
+    "headingColor": "#41b883",
+    "iconColor": "#41b883",
+    "txtColor": "#fffefe",
+    "bgColor": "#273849"
+  },
+  "shades-of-purple": {
+    "headingColor": "#fad000",
+    "iconColor": "#b362ff",
+    "txtColor": "#a599e9",
+    "bgColor": "#2d2b55"
+  },
+  "nightowl": {
+    "headingColor": "#c792ea",
+    "iconColor": "#ffeb95",
+    "txtColor": "#7fdbca",
+    "bgColor": "#011627"
+  },
+  "buefy": {
+    "headingColor": "#7957d5",
+    "iconColor": "#ff3860",
+    "txtColor": "#363636",
+    "bgColor": "#ffffff"
+  },
+  "blue-green": {
+    "headingColor": "#2f97c1",
+    "iconColor": "#f5b700",
+    "txtColor": "#0cf574",
+    "bgColor": "#040f0f"
+  },
+  "algolia": {
+    "headingColor": "#00AEFF",
+    "iconColor": "#2DDE98",
+    "txtColor": "#FFFFFF",
+    "bgColor": "#050F2C"
+  },
+  "great-gatsby": {
+    "headingColor": "#ffa726",
+    "iconColor": "#ffb74d",
+    "txtColor": "#ffd95b",
+    "bgColor": "#000000"
+  },
+  "darcula": {
+    "headingColor": "#BA5F17",
+    "iconColor": "#84628F",
+    "txtColor": "#BEBEBE",
+    "bgColor": "#242424"
+  },
+  "bear": {
+    "headingColor": "#e03c8a",
+    "iconColor": "#00AEFF",
+    "txtColor": "#bcb28d",
+    "bgColor": "#1f2023"
+  },
+  "solarized-dark": {
+    "headingColor": "#268bd2",
+    "iconColor": "#b58900",
+    "txtColor": "#859900",
+    "bgColor": "#002b36"
+  },
+  "solarized-light": {
+    "headingColor": "#268bd2",
+    "iconColor": "#b58900",
+    "txtColor": "#859900",
+    "bgColor": "#fdf6e3"
+  },
+  "chartreuse-dark": {
+    "headingColor": "#7fff00",
+    "iconColor": "#00AEFF",
+    "txtColor": "#fff",
+    "bgColor": "#000"
+  },
+  "nord": {
+    "headingColor": "#81a1c1",
+    "txtColor": "#d8dee9",
+    "iconColor": "#88c0d0",
+    "bgColor": "#2e3440"
+  },
+  "gotham": {
+    "headingColor": "#2aa889",
+    "iconColor": "#599cab",
+    "txtColor": "#99d1ce",
+    "bgColor": "#0c1014"
+  },
+  "material-palenight": {
+    "headingColor": "#c792ea",
+    "iconColor": "#89ddff",
+    "txtColor": "#a6accd",
+    "bgColor": "#292d3e"
+  },
+  "graywhite": {
+    "headingColor": "#24292e",
+    "iconColor": "#000000",
+    "txtColor": "#24292e",
+    "bgColor": "#ffffff"
+  },
+  "vision-friendly-dark": {
+    "headingColor": "#ffb000",
+    "iconColor": "#785ef0",
+    "txtColor": "#ffffff",
+    "bgColor": "#000000"
+  },
+  "ayu-mirage": {
+    "headingColor": "#f4cd7c",
+    "iconColor": "#73d0ff",
+    "txtColor": "#c7c8c2",
+    "bgColor": "#1f2430"
+  },
+  "midnight-purple": {
+    "headingColor": "#9745f5",
+    "iconColor": "#9f4bff",
+    "txtColor": "#ffffff",
+    "bgColor": "#000000"
+  },
+  "calm": {
+    "headingColor": "#e07a5f",
+    "iconColor": "#edae49",
+    "txtColor": "#ebcfb2",
+    "bgColor": "#373f51"
+  },
+  "tricolor": {
+    "headingColor": "#ff8f1c",
+    "iconColor": "#250E62",
+    "txtColor": "#509E2F",
+    "bgColor": "#ffffff"
+  },
+  "omni": {
+    "headingColor": "#FF79C6",
+    "iconColor": "#e7de79",
+    "txtColor": "#E1E1E6",
+    "bgColor": "#191622"
+  },
+  "react": {
+    "headingColor": "#61dafb",
+    "iconColor": "#61dafb",
+    "txtColor": "#ffffff",
+    "bgColor": "#20232a"
+  },
+  "jolly": {
+    "headingColor": "#ff64da",
+    "iconColor": "#a960ff",
+    "txtColor": "#ffffff",
+    "bgColor": "#291B3E"
+  },
+  "maroongold": {
+    "headingColor": "#F7EF8A",
+    "iconColor": "#F7EF8A",
+    "txtColor": "#E0AA3E",
+    "bgColor": "#260000"
+  },
+  "yeblu": {
+    "headingColor": "#ffff00",
+    "iconColor": "#ffff00",
+    "txtColor": "#ffffff",
+    "bgColor": "#002046"
+  },
+  "blueberry": {
+    "headingColor": "#82aaff",
+    "iconColor": "#89ddff",
+    "txtColor": "#27e8a7",
+    "bgColor": "#242938"
+  },
+  "slateorange": {
+    "headingColor": "#faa627",
+    "iconColor": "#faa627",
+    "txtColor": "#ffffff",
+    "bgColor": "#36393f"
+  },
+  "kacho_ga": {
+    "headingColor": "#bf4a3f",
+    "iconColor": "#a64833",
+    "txtColor": "#d9c8a9",
+    "bgColor": "#402b23"
+  },
+  "outrun": {
+    "headingColor": "#ffcc00",
+    "iconColor": "#ff1aff",
+    "txtColor": "#8080ff",
+    "bgColor": "#141439"
+  },
+  "ocean_dark": {
+    "headingColor": "#8957B2",
+    "iconColor": "#FFFFFF",
+    "txtColor": "#92D534",
+    "bgColor": "#151A28"
+  },
+  "city_lights": {
+    "headingColor": "#5D8CB3",
+    "iconColor": "#4798FF",
+    "txtColor": "#718CA1",
+    "bgColor": "#1D252C"
+  },
+  "github_dark": {
+    "headingColor": "#58A6FF",
+    "iconColor": "#1F6FEB",
+    "txtColor": "#C3D1D9",
+    "bgColor": "#0D1117"
+  },
+  "discord_old_blurple": {
+    "headingColor": "#7289DA",
+    "iconColor": "#7289DA",
+    "txtColor": "#FFFFFF",
+    "bgColor": "#2C2F33"
+  },
+  "aura_dark": {
+    "headingColor": "#ff7372",
+    "iconColor": "#6cffd0",
+    "txtColor": "#dbdbdb",
+    "bgColor": "#252334"
+  },
+  "panda": {
+    "headingColor": "#19f9d899",
+    "iconColor": "#19f9d899",
+    "txtColor": "#FF75B5",
+    "bgColor": "#31353a"
+  },
+  "noctis_minimus": {
+    "headingColor": "#d3b692",
+    "iconColor": "#72b7c0",
+    "txtColor": "#c5cdd3",
+    "bgColor": "#1b2932"
+  },
+  "cobalt2": {
+    "headingColor": "#ffc600",
+    "iconColor": "#ffffff",
+    "txtColor": "#0088ff",
+    "bgColor": "#193549"
+  },
+  "swift": {
+    "headingColor": "#000000",
+    "iconColor": "#f05237",
+    "txtColor": "#000000",
+    "bgColor": "#f7f7f7"
+  },
+  "aura": {
+    "headingColor": "#a277ff",
+    "iconColor": "#ffca85",
+    "txtColor": "#61ffca",
+    "bgColor": "#15141b"
+  },
+  "apprentice": {
+    "headingColor": "#ffffff",
+    "iconColor": "#ffffaf",
+    "txtColor": "#bcbcbc",
+    "bgColor": "#262626"
+  },
+  "moltack": {
+    "headingColor": "#86092C",
+    "iconColor": "#86092C",
+    "txtColor": "#574038",
+    "bgColor": "#F5E1C0"
+  },
+  "codeSTACKr": {
+    "headingColor": "#ff652f",
+    "iconColor": "#FFE400",
+    "txtColor": "#ffffff",
+    "bgColor": "#09131B"
+  },
+  "rose_pine": {
+    "headingColor": "#9ccfd8",
+    "iconColor": "#ebbcba",
+    "txtColor": "#e0def4",
+    "bgColor": "#191724"
+  }
+}

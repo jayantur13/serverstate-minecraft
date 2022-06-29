@@ -1,0 +1,31 @@
+{
+  "name": "serverstate-minecraft",
+  "version": "1.0.0",
+  "description": "Showcase minecraft server state as signature or in readme",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js",
+    "test": "jest --coverage",
+    "test:watch": "jest --watch"
+  },
+  "author": "Jayant Navrange",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jayantur13/serverstate-minecraft.git"
+  },
+  "homepage": "https://github.com/jayantur13/serverstate-minecraft#readme",
+  "bugs": {
+    "url": "https://github.com/jayantur13/serverstate-minecraft/issues"
+  },
+  "devDependencies": {
+    "jest": "^28.1.2",
+    "nodemon": "^2.0.18"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  }
+}
