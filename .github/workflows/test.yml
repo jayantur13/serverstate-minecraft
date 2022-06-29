@@ -10,7 +10,7 @@ on:
 
 jobs:
   build:
-
+    name: test_script
     runs-on: ubuntu-latest
 
     strategy:
