@@ -2,12 +2,12 @@ const express = require("express");
 const app = express();
 const cors = require("cors");
 require("dotenv").config();
-const { CONSTANTS } = require("../src/values.js");
-const { renderBanner } = require("../src/renderBanner.js");
-const { getTheme } = require("../src/getTheme");
-const { fetchApi } = require("../src/theApi");
-const { getRandomArrayElement } = require("../src/values");
-const themes = require("../src/themes.json");
+const { CONSTANTS } = require("./src/values.js");
+const { renderBanner } = require("./src/renderBanner.js");
+const { getTheme } = require("./src/getTheme");
+const { fetchApi } = require("./src/theApi");
+const { getRandomArrayElement } = require("./src/values");
+const themes = require("./src/themes.json");
 
 // Max cache age 30 seconds
 const cacheSeconds = CONSTANTS.ONE_MINUTE;
