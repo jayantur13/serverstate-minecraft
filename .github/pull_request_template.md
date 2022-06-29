@@ -17,7 +17,7 @@ Changes related to documentation can skip this section.
 
 - [ ] Tested locally with a valid server name/ip/ip:port
 - [ ] Tested locally with an invalid server name/ip/ip:port
-- [ ] Ran tests with `yarn test` (must cover entire codebase) 
+- [ ] Ran tests with `npm run test` (must cover entire codebase) 
 - [ ] Added or updated test cases to test new features
 
 ## Checklist:
