@@ -57,15 +57,13 @@ describe("Basic Api Testing", () => {
     });
   });
   it("should check length of srvAddress & srvType", async () => {
-    axios.get.mockResolvedValue("Please provide server address & type");
+    axios.get.mockResolvedValue("Server address & type required");
     const res = await fetchApi("", "");
-    expect(res).toEqual("Please provide server address & type");
+    expect(res).toEqual("Server address & type required");
   });
   it("should check length of srvAddress & srvType", async () => {
-    axios.get.mockResolvedValue(
-      "Server address or type is missing,required both"
-    );
+    axios.get.mockResolvedValue("Server address or type is missing");
     const res = await fetchApi("", "main");
-    expect(res).toEqual("Server address or type is missing,required both");
+    expect(res).toEqual("Server address or type is missing");
   });
 });
