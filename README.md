@@ -3,7 +3,7 @@
   <p align="center">
     <img alt="Codecov" src="https://img.shields.io/codecov/c/github/jayantur13/serverstate-minecraft?label=codecov&logo=codecov&style=flat-square">
     <img alt="Code-style" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square">
-    <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/jayantur13/serverstate-minecraft/test_script?logo=github&style=flat-square">
+    <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/jayantur13/serverstate-minecraft/test.yml?branch=master">
     <a href="https://github.com/jayantur13/serverstate-minecraft/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/jayantur13/serverstate-minecraft?style=flat-square"></a>
     <a href="https://github.com/jayantur13/serverstate-minecraft/pulls"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/jayantur13/serverstate-minecraft?style=flat-square"></a>
     <a href="https://github.com/jayantur13/serverstate-minecraft/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/jayantur13/serverstate-minecraft?style=flat-square"></a>
@@ -123,7 +123,7 @@ Please adhere to this project's [Code Of Conduct](https://github.com/jayantur13/
 
 ## Issues
 
-None yet,but needs to be tested on Smartphone browser/Github app.
+None yet.
 
 ## Support the project
 
