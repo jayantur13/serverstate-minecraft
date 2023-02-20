@@ -206,14 +206,14 @@ app.get("/mc.svg", async (req, res) => {
         <meta property="og:title" content="Minecraft Server Status" />
         <meta property="og:description" 
         content="This preview generated for minecraft by https://github.com/jayantur13/serverstate-minecraft" />
-        <meta property="og:image" content="https://serverstate-minecraft.vercel.app/mc.svg" />
+        <meta property="og:image" content="https://serverstate-minecraft.vercel.app/mc.svg?srvAddress=${srvAddress}&amp;srvType=${srvType}" />
         <meta property="og:image:type" content="image/svg+xml" />
         <meta property="og:image:width" content="500" />
         <meta property="og:image:height" content="200" />
         <meta property="og:image:alt" content="Minecraft server status preview" />
       </head>
       <body>
-        ${svg}
+       <h1>Nothing here</h1>
       </body>
     </html>
   `;
