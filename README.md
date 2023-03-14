@@ -28,7 +28,7 @@ Please read the following for an easy setup -
 These below,two parameters are must -
 
 - srvAddress - Pass server address i.e _hostname_,_ip_,_ip:port_ or _name with domain_
-- srvType - Pass server type _main_ for Java Edition and _bedrock_ for Bedrock edition.
+- srvType - Pass server type _java_ for Java Edition and _bedrock_ for Bedrock edition.
 
 **Optional parameters for banner:**
 
