@@ -102,7 +102,7 @@ https://serverstate-minecraft.vercel.app/api?srvAddress=play.primegames.net&srvT
 
 ![ServerState Minecraft](https://serverstate-minecraft.vercel.app/api?srvAddress=play.primegames.net&srvType=bedrock&themeval=yeblu)
 
-![ServerState Minecraft](https://serverstate-minecraft.vercel.app/api?srvAddress=pokecentral.org&srvType=main&themeval=panda)
+![ServerState Minecraft](https://serverstate-minecraft.vercel.app/api?srvAddress=pokecentral.org&srvType=java&themeval=panda)
 
 Checkout themes in [All themes](https://github.com/jayantur13/tree/main/src/themes.json "All Themes") or you can get an idea of how themes may look [Theme Demo courtesy Anurag Hazra](https://github.com/anuraghazra/github-readme-stats/tree/master/themes "Theme Demo Here")
 
@@ -111,7 +111,7 @@ Checkout themes in [All themes](https://github.com/jayantur13/tree/main/src/them
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 - [ABSphreak/readme-jokes](https://github.com/ABSphreak/readme-jokes)
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-- [Minecraft API by Anders G. Jørgensen](https://github.com/Spirit55555)
+- [Minecraft API by Jacob Gunther](https://mcstatus.io/)
 
 ## Contributing
 
@@ -127,7 +127,7 @@ None yet.
 
 ## Support the project
 
-[Support the API](https://paypal.me/spirit55555) and [Support the Project](https://www.buymeacoffee.com/jayantur13v),for this project to live long.
+Support the developers so this project will live long.
 
 ## License
 

@@ -68,12 +68,9 @@ app.get("/api", async (req, res) => {
     else {
       let data = response.data;
       if (data.online === true) {
-        let hostname = data.hostname;
-        let ip = data.ip;
+        let hostname = data.host;
         let port = data.port;
         let status = data.online;
-        let map;
-        data.map === undefined ? (map = "unknown") : (map = data.map);
         let mode;
         data.gamemode !== null && data.gamemode !== undefined
           ? (mode = data.gamemode)
@@ -81,7 +78,7 @@ app.get("/api", async (req, res) => {
 
         let maxplayer = data.players.max;
         let player = data.players.online;
-        let version = data.version;
+        let version = srvType === "java" ? data.version.name_clean : data.version.name;
 
         let mhostname;
         hostname !== null
@@ -92,7 +89,7 @@ app.get("/api", async (req, res) => {
         status === true ? (srvStatus = "online") : (srvStatus = "offline");
 
         let m_mapmode;
-        srvType === "main" ? (m_mapmode = `${map}`) : (m_mapmode = `${mode}`);
+        srvType === "bedrock" ? (m_mapmode = `${mode}`) : (m_mapmode = `Not found`);
         renderBannerRect = renderBanner(
           txtColor,
           fWeight,
@@ -100,7 +97,6 @@ app.get("/api", async (req, res) => {
           borderColor === "transparent" ? "transparent" : borderColor,
           srvType,
           mhostname,
-          ip,
           port,
           srvStatus,
           m_mapmode,

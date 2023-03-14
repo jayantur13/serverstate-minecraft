@@ -6,7 +6,7 @@ const fetchApi = async (srvAddress, srvType) => {
   } else if (srvAddress.length === 0 || srvType.length === 0) {
     return "Server address or type is missing";
   } else {
-    if (srvType === "main") {
+    if (srvType === "java") {
       let data = await axios.get(process.env.MAIN_URL + srvAddress);
       return data;
     } else {
