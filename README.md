@@ -42,7 +42,7 @@ Following parameters can be used for customisation -
 - iconColor - pass an icon color (or transparent)
 - themeval - pass an available theme name
 
-> Note1: Color must be passed starting with %23 (encoded for #)
+> Note1: Color must be passed starting with %23 (encoded value for #)
 >
 > > Note2: Customise all parameters or use theme instead (i.e themeval)
 >
@@ -95,7 +95,7 @@ https://serverstate-minecraft.vercel.app/api?srvAddress=play.primegames.net&srvT
 Customise theme with borderColor and fontWeight
 
 ```
-https://serverstate-minecraft.vercel.app/api?srvAddress=play.primegames.net&srvType=bedrock&themeval=cobalt&borderColor=%23ffffff&fontWeight=bold
+https://serverstate-minecraft.vercel.app/api?srvAddress=pokecentral.org&srvType=java&themeval=cobalt&borderColor=%23ffffff&fontWeight=bold
 ```
 
 <h4>Themes Demo</h4>
@@ -105,6 +105,10 @@ https://serverstate-minecraft.vercel.app/api?srvAddress=play.primegames.net&srvT
 ![ServerState Minecraft](https://serverstate-minecraft.vercel.app/api?srvAddress=pokecentral.org&srvType=java&themeval=panda)
 
 Checkout themes in [All themes](https://github.com/jayantur13/tree/main/src/themes.json "All Themes") or you can get an idea of how themes may look [Theme Demo courtesy Anurag Hazra](https://github.com/anuraghazra/github-readme-stats/tree/master/themes "Theme Demo Here")
+
+## Changelog
+
+For all the important changelog vist [Changelog.md](https://github.com/jayantur13/serverstate-minecraft/blob/master/CHANGELOG.md)
 
 ## References/Source/Inspiration
 

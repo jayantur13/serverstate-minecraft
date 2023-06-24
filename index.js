@@ -78,7 +78,8 @@ app.get("/api", async (req, res) => {
 
         let maxplayer = data.players.max;
         let player = data.players.online;
-        let version = srvType === "java" ? data.version.name_clean : data.version.name;
+        let version =
+          srvType === "java" ? data.version.name_clean : data.version.name;
 
         let mhostname;
         hostname !== null
@@ -89,7 +90,9 @@ app.get("/api", async (req, res) => {
         status === true ? (srvStatus = "online") : (srvStatus = "offline");
 
         let m_mapmode;
-        srvType === "bedrock" ? (m_mapmode = `${mode}`) : (m_mapmode = `Not found`);
+        srvType === "bedrock"
+          ? (m_mapmode = `${mode}`)
+          : (m_mapmode = `N/A`);
         renderBannerRect = renderBanner(
           txtColor,
           fWeight,
@@ -99,10 +102,10 @@ app.get("/api", async (req, res) => {
           mhostname,
           port,
           srvStatus,
-          m_mapmode,
+          m_mapmode === "Not found" ? "Not found" : "N/A",
           player,
           maxplayer,
-          version,
+          version === "" ? "N/A (&lt; 1.3)" : version,
           headingColor,
           iconColor === "transparent" ? "transparent" : iconColor
         );
