@@ -41,8 +41,8 @@ const renderBanner = (
    <g> 
    <a xlink:href="/#please-do-not-click" xlink:title="Hostname ${mhostname} and type ${srvType}"><text text-anchor="start" x="10" y="80" style="opacity:0;animation: fadein 0.5s linear forwards 0.7s;font-family:Segoe UI, Ubuntu, sans-serif;fill:${txtColor};
    font-weight:${fWeight}">Hostname ${mhostname}</text></a>
-  <a xlink:href='/#do-not-click-just-for-info' xlink:title='Port ${port} '><text text-anchor="start" x="320" y="80" style="opacity:0;animation: fadein 0.5s linear forwards 0.7s;font-family:Segoe UI, Ubuntu, sans-serif;fill:${txtColor};
-   font-weight:${fWeight}">Port ${port}</text></a>
+  <a xlink:href='/#do-not-click-just-for-info' xlink:title='Port No. ${port} '><text text-anchor="start" x="320" y="80" style="opacity:0;animation: fadein 0.5s linear forwards 0.7s;font-family:Segoe UI, Ubuntu, sans-serif;fill:${txtColor};
+   font-weight:${fWeight}">Port No. ${port}</text></a>
    </g>
    <g> 
    <text text-anchor="start" x="10" y="120" style="opacity:0;animation: fadein 0.5s linear forwards 0.7s;font-family:Segoe UI, Ubuntu, sans-serif;fill:${txtColor};

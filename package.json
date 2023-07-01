@@ -18,6 +18,9 @@
   "bugs": {
     "url": "https://github.com/jayantur13/serverstate-minecraft/issues"
   },
+  "overrides": {
+    "semver": "^7.5.3"
+  },
   "dependencies": {
     "axios": "^1.4.0",
     "cors": "^2.8.5",
