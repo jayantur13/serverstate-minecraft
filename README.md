@@ -2,11 +2,7 @@
   <img alt="Logo" src="https://i.postimg.cc/mDjCTfyJ/minecraft.png">
   <p align="center">
     <img alt="Codecov" src="https://img.shields.io/codecov/c/github/jayantur13/serverstate-minecraft?label=codecov&logo=codecov&style=flat-square">
-    <img alt="Code-style" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square">
     <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/jayantur13/serverstate-minecraft/test.yml?branch=master">
-    <a href="https://github.com/jayantur13/serverstate-minecraft/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/jayantur13/serverstate-minecraft?style=flat-square"></a>
-    <a href="https://github.com/jayantur13/serverstate-minecraft/pulls"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/jayantur13/serverstate-minecraft?style=flat-square"></a>
-    <a href="https://github.com/jayantur13/serverstate-minecraft/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/jayantur13/serverstate-minecraft?style=flat-square"></a>
     <h3 align="center"><b>Minecraft server state in your readme/signature.</b></h3>
   </p>
   <p align="center"><a href="#setup-guide">Setup Guide</a> • <a href="#examples">Examples</a> • <a href="#valid-format">Valid format</a> • <a href="#themes-demo">Theme demo</a> • <a href="#contributing">Contributing</a></p>
@@ -52,7 +48,7 @@ Following parameters can be used for customisation -
 
 ## Examples
 
-You can use **markdown** or **img tag** to render minecraft server state
+You can use **markdown** or **img** to render minecraft server state
 
 ```
 <!-- Markdown -->
@@ -102,15 +98,15 @@ https://serverstate-minecraft.vercel.app/api?srvAddress=pokecentral.org&srvType=
 
 ![ServerState Minecraft](https://serverstate-minecraft.vercel.app/api?srvAddress=play.primegames.net&srvType=bedrock&themeval=yeblu)
 
-![ServerState Minecraft](https://serverstate-minecraft.vercel.app/api?srvAddress=pokecentral.org&srvType=java&themeval=panda)
+![ServerState Minecraft](https://serverstate-minecraft.vercel.app/api?srvAddress=ms.pixelmonrealms.com&srvType=java&themeval=panda)
 
 Checkout themes in [All themes](https://github.com/jayantur13/tree/main/src/themes.json "All Themes") or you can get an idea of how themes may look [Theme Demo courtesy Anurag Hazra](https://github.com/anuraghazra/github-readme-stats/tree/master/themes "Theme Demo Here")
 
 ## Changelog
 
-For all the important changelog vist [Changelog.md](https://github.com/jayantur13/serverstate-minecraft/blob/master/CHANGELOG.md)
+For all the important changelog vist [Changelog](https://github.com/jayantur13/serverstate-minecraft/blob/master/CHANGELOG.md)
 
-## References/Source/Inspiration
+## References
 
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 - [ABSphreak/readme-jokes](https://github.com/ABSphreak/readme-jokes)
@@ -121,18 +117,14 @@ For all the important changelog vist [Changelog.md](https://github.com/jayantur1
 
 Contributions are always welcome!
 
-See [Contributing.md](https://github.com/jayantur13/serverstate-minecraft/blob/master/CONTRIBUTING.md) for ways to get started.
+See [Contributing](https://github.com/jayantur13/serverstate-minecraft/blob/master/CONTRIBUTING.md) for ways to get started.
 
 Please adhere to this project's [Code Of Conduct](https://github.com/jayantur13/serverstate-minecraft/blob/master/CODE_OF_CONDUCT.md).
 
-## Issues
+## Support
 
-None yet.
-
-## Support the project
-
-Support the developers so this project will live long.
+Support the developers for this project to live long.For issues, open a new issue or use discussion.
 
 ## License
 
-This project is licensed under [MIT License](https://github.com/jayantur13/serverstate-minecraft/blob/master/LICENSE)
+This project is licensed under the [MIT License](https://github.com/jayantur13/serverstate-minecraft/blob/master/LICENSE)
