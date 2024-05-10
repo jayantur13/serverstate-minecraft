@@ -53,7 +53,7 @@ You can use **markdown** or **img** to render minecraft server state
 ```
 <!-- Markdown -->
 
-![ServerState Minecraft](https://serverstate-minecraft.vercel.app/api?srvAddress=play.primegames.net&srvType=bedrock)
+![ServerState Minecraft](https://serverstate-minecraft.vercel.app/api?srvAddress=play.craftersmc.net&srvType=bedrock)
 
 ```
 
@@ -62,7 +62,7 @@ or
 ```
 <!-- HTML -->
 
-<img src="https://serverstate-minecraft.vercel.app/api?srvAddress=play.primegames.net&srvType=bedrock alt="ServerState Minecraft"/>
+<img src="https://serverstate-minecraft.vercel.app/api?srvAddress=play.craftersmc.net&srvType=bedrock alt="ServerState Minecraft"/>
 
 ```
 
@@ -73,19 +73,19 @@ or
 Default usage (i.e with _random themes_)
 
 ```
-https://serverstate-minecraft.vercel.app/api?srvAddress=play.primegames.net&srvType=bedrock
+https://serverstate-minecraft.vercel.app/api?srvAddress=play.craftersmc.net&srvType=bedrock
 ```
 
 With a theme
 
 ```
-https://serverstate-minecraft.vercel.app/api?srvAddress=play.primegames.net&srvType=bedrock&themeval=omni
+https://serverstate-minecraft.vercel.app/api?srvAddress=play.craftersmc.net&srvType=bedrock&themeval=omni
 ```
 
 Full customisation
 
 ```
-https://serverstate-minecraft.vercel.app/api?srvAddress=play.primegames.net&srvType=bedrock&borderColor=%23000000&fontWeight=bold&bgColor=%23ffffff&txtColor=%23000000&headingColor=%23000000&iconColor=%23000000
+https://serverstate-minecraft.vercel.app/api?srvAddress=play.craftersmc.net&srvType=bedrock&borderColor=%23000000&fontWeight=bold&bgColor=%23ffffff&txtColor=%23000000&headingColor=%23000000&iconColor=%23000000
 ```
 
 Customise theme with borderColor and fontWeight
@@ -96,7 +96,7 @@ https://serverstate-minecraft.vercel.app/api?srvAddress=pokecentral.org&srvType=
 
 <h4>Themes Demo</h4>
 
-![ServerState Minecraft](https://serverstate-minecraft.vercel.app/api?srvAddress=play.primegames.net&srvType=bedrock&themeval=yeblu)
+![ServerState Minecraft](https://serverstate-minecraft.vercel.app/api?srvAddress=play.craftersmc.net&srvType=bedrock&themeval=yeblu)
 
 ![ServerState Minecraft](https://serverstate-minecraft.vercel.app/api?srvAddress=ms.pixelmonrealms.com&srvType=java&themeval=panda)
 
