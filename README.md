@@ -45,6 +45,10 @@ Following parameters can be used for customisation -
 > > Note3: There is **1 min. cache time** for now,set by default
 >
 > > Note4: Possible to skip some optional parameters
+>
+> > Note5: API data maybe inaccurate sometimes
+>
+> > Note6: You can view full info. of a server,example at end
 
 ## Examples
 
@@ -96,9 +100,9 @@ https://serverstate-minecraft.vercel.app/api?srvAddress=pokecentral.org&srvType=
 
 <h4>Themes Demo</h4>
 
-![ServerState Minecraft](https://serverstate-minecraft.vercel.app/api?srvAddress=play.craftersmc.net&srvType=bedrock&themeval=yeblu)
+[![ServerState Minecraft](https://serverstate-minecraft.vercel.app/api?srvAddress=play.craftersmc.net&srvType=bedrock&themeval=yeblu)](https://ismcserver.online/bedrock/play.craftersmc.net)
 
-![ServerState Minecraft](https://serverstate-minecraft.vercel.app/api?srvAddress=ms.pixelmonrealms.com&srvType=java&themeval=panda)
+[![ServerState Minecraft](https://serverstate-minecraft.vercel.app/api?srvAddress=ms.pixelmonrealms.com&srvType=java&themeval=panda)](https://ismcserver.online/ms.pixelmonrealms.com)
 
 Checkout themes in [All themes](https://github.com/jayantur13/tree/main/src/themes.json "All Themes") or you can get an idea of how themes may look [Theme Demo courtesy Anurag Hazra](https://github.com/anuraghazra/github-readme-stats/tree/master/themes "Theme Demo Here")
 
