@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Showcase minecraft server state as signature or in readme",
   "main": "index.js",
+  "engines": {
+    "node": "22.x"
+  },
   "scripts": {
     "start": "node index.js",
     "test": "jest --coverage",
@@ -22,9 +25,9 @@
     "semver": "7.5.4"
   },
   "dependencies": {
-    "axios": "^1.7.7",
+    "axios": "^1.7.9",
     "cors": "^2.8.5",
-    "dotenv": "^16.4.5",
+    "dotenv": "^16.4.7",
     "express": "^4.21.0"
   },
   "devDependencies": {
