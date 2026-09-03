@@ -28,7 +28,7 @@
     "axios": "^1.18.0",
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
-    "express": "^4.22.2"
+    "express": "^5.2.1"
   },
   "devDependencies": {
     "jest": "^29.7.0"
